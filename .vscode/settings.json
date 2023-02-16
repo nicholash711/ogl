@@ -1,0 +1,10 @@
+{
+    "C_Cpp.default.includePath": [
+        "${workspaceFolder}/external/AntTweakBar-1.16/include/**",
+        "${workspaceFolder}/external/assimp-3.0.1270/include/**",
+        "${workspaceFolder}/external/bullet-2.81-rev2613/src/**",
+        "${workspaceFolder}/external/glew-1.13.0/include/**",
+        "${workspaceFolder}/external/glfw-3.1.2/include/**",
+        "${workspaceFolder}/external/glm-0.9.7.1/**",
+    ]
+}
